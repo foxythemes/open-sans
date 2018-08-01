@@ -1,5 +1,5 @@
 {
-  "name": "open-sans",
+  "name": "@foxythemes/open-sans",
   "version": "1.1.0",
   "description": "SCSS webfont kit for the awesome Open Sans webfont.",
   "main": "Gruntfile.js",
